@@ -12,3 +12,4 @@ C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\D
 C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.pdb
 C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.genruntimeconfig.cache
 C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\ref\firsttProject.dll
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.sourcelink.json

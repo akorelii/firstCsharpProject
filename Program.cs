@@ -7,7 +7,17 @@ namespace firsttProject
    {
       static void Main(string[] args)
       {
-         Console.WriteLine("Hello, World!!2");
+         #region Değişken Tanimlama
+         //string name;
+         //name = "Ahmet";
+         //string surname = "Köreli";
+         int age = 24;
+         //char firstLetter;
+         #endregion
+
+         int x = 10;
+   
+         Console.WriteLine("%d", x + age);
       }
    }
 }
