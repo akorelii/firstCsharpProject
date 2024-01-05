@@ -1,0 +1,14 @@
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\bin\Debug\net8.0\firsttProject.exe
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\bin\Debug\net8.0\firsttProject.deps.json
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\bin\Debug\net8.0\firsttProject.runtimeconfig.json
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\bin\Debug\net8.0\firsttProject.dll
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\bin\Debug\net8.0\firsttProject.pdb
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.AssemblyInfoInputs.cache
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.AssemblyInfo.cs
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.csproj.CoreCompileInputs.cache
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.dll
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\refint\firsttProject.dll
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.pdb
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\firsttProject.genruntimeconfig.cache
+C:\Users\akore\OneDrive\Masaüstü\Kişisel\YazılımVsco\C#\firsttProject\obj\Debug\net8.0\ref\firsttProject.dll
